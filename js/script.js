@@ -7,8 +7,3 @@ const priceKm = 0.21;
 let totalPrice = km * priceKm;
 console.log(totalPrice)
 
-//biglietto sconto
-if (age >= 18) {
-  const discount = (totalPrice * 20) /100;
-  
-}
