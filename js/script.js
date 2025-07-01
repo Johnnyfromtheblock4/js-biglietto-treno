@@ -4,7 +4,7 @@ const age = parseInt(prompt(`inserisci l'età`));
 const priceKm = 0.21;
 
 //calcolo prezzo biglietto senza sconti
-let totalPrice = km * priceKm;
+totalPrice = km * priceKm;
 
 //calcolo biglietto sconto
 if (age < 18) {
