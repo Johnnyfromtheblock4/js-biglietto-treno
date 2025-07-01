@@ -5,5 +5,4 @@ const priceKm = 0.21;
 
 //calcolo prezzo senza sconti
 let totalPrice = km * priceKm;
-console.log(totalPrice)
-
+console.log(totalPrice);
