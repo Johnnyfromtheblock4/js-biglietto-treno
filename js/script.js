@@ -5,7 +5,6 @@ const priceKm = 0.21;
 
 //calcolo prezzo biglietto senza sconti
 let totalPrice = km * priceKm;
-console.log(totalPrice);
 
 //calcolo biglietto sconto
 if (age < 18) {
